@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="840ebc4d-b95f-4126-9a19-f4d625369909" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FlappyBird" />
+  </component>
+  <component name="ProjectId" id="1hPsKuf3gXzCvtD88EfF8YbFqOV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FlappyBird" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="840ebc4d-b95f-4126-9a19-f4d625369909" name="Default Changelist" comment="" />
+      <created>1599924000905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599924000905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599924442502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599924442502" />
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1599924461939">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1599924461939" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599924655399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599924655399" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1599924474525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599924474525" />
+    <state x="168" y="120" width="1200" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599924422748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="168" y="120" width="1200" height="584" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1599924422748" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599924004233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599924004233" />
+  </component>
+</project>
